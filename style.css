@@ -1,5 +1,8 @@
 /*adding css on your first webpage with TOP*/
 
+*{
+    outline: 1px dotted red;
+}
 ul {
     height: auto;
     margin-top: auto;
@@ -13,11 +16,9 @@ ul {
 }
 
 p{
-    height: auto;
-    margin-top: auto;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: auto;    
+    text-align: center;
+    margin: 50px auto;
+    padding: 50px;
 }
 
 h1{
